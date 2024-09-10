@@ -26,7 +26,7 @@ Analyzing System Requirements: Determine the database entities, attributes, and 
 
   ![image](https://github.com/user-attachments/assets/b7379d83-967a-4c50-a683-c8be2a8ac133)
 
-- Creating Stored Procedures (SPs): Manage SELECT, INSERT, UPDATE, and DELETE operations, create SPs for SSRS Reports, and Generating and submiting exams.
+- Creating Stored Procedures (SPs): Created 137 stored procedures to manage SELECT, INSERT, UPDATE, and DELETE operations, for SSRS Reports, and Generating and submiting exams.
 
   ![image](https://github.com/user-attachments/assets/19703c65-6deb-4b55-b8e5-3fa3e7559170)
 
