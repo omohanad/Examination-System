@@ -41,7 +41,7 @@ Analyzing System Requirements: Determine the database entities, attributes, and 
 
 ![image](https://github.com/user-attachments/assets/7f5796f5-7527-4b66-85ee-b1028c8a1771)
 
-- Building a Desktop Application: Develop an application for students to take exams, leveraging the SPs for exam generation and answer submissions.
+- Building a Desktop Application: Develop an application for students to take exams, leveraging the SPs for exam generation and answer submissions. [Check Repo.](https://github.com/AbdEl-RhmanMohamad/Exam-App)
 
   ![image](https://github.com/user-attachments/assets/9d3db0a8-670d-47cc-a5a0-77ace14614f6)
 
